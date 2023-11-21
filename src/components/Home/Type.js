@@ -9,7 +9,6 @@ function Type() {
           "Welcome",
           "To my website",
           "With react.js",
-          "Pemrograman Web 1",
         ],
         autoStart: true,
         loop: true,
